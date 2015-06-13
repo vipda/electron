@@ -6,7 +6,7 @@ The following is a set of guidelines for contributing to Electron.
 These are just guidelines, not rules, use your best judgment and feel free to
 propose changes to this document in a pull request.
 
-## Submitting Issues
+## Submitting Issues不不不
 
 * You can create an issue [here](https://github.com/atom/electron/issues/new),
 but before doing that please read the notes below and include as many details as
